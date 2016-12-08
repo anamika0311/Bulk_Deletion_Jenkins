@@ -1,0 +1,3 @@
+org\jenkinsci\plugins\Demo_plugin_Jenkins\HelloWorldBuilder.stapler
+META-INF\annotations\hudson.Extension
+org\jenkinsci\plugins\Demo_plugin_Jenkins\HelloWorldBuilder\DescriptorImpl\doCheckName.stapler
